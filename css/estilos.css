@@ -104,17 +104,17 @@ main{
 }
 
 /* Clases que utilizo en Javascript */
-.box-selected {
+.box-selected{
     border-color: red;
     transition: all 600ms;
 }
 
 .icon-check{
-    display: block;
+    display: block !important;
 }
 
 .check-selected{
-    background: red;
+    background: red !important;
     border: none;
     transition: all 600ms;
 }
